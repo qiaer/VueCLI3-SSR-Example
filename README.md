@@ -5,10 +5,13 @@
 ## Example
 
 npm install
+
 npm run build:win
+
 node server
 
 热更新
+
 npm run dev
 
 ## Thanks
